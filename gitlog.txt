@@ -1,0 +1,29 @@
+commit 5079203b7d47692b7cdc65c1dec6f06b896228f7
+Author: Yiming LI <yli334@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 23:52:21 2020 -0400
+
+    5th version
+
+commit db1ddf59841b6dc7ab64da503af2a81968b24c72
+Author: Yiming LI <yli334@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 23:20:59 2020 -0400
+
+    4th version
+
+commit ef7c6b502b03ca2fcc0ba33287ebf7fb5cd644f5
+Author: Yiming LI <yli334@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 22:53:06 2020 -0400
+
+    3rd version
+
+commit 49108fcada705a978d049dfb021573c87f35e973
+Author: Yiming LI <yli334@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 22:22:40 2020 -0400
+
+    2nd version
+
+commit 8e19e96331806821ecb09dfe77139acb1ea36682
+Author: Yiming LI <yli334@teaching.CS.McGill.CA>
+Date:   Sun Apr 12 21:40:50 2020 -0400
+
+    1st version at 21:40
