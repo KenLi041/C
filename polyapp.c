@@ -1,8 +1,7 @@
 
 //
 //  main.c
-//  COMP206
-//
+
 //  Created by Yiming Li on 4/3/20.
 //  Copyright © 2020 Ken Li. All rights reserved.
 //
@@ -12,11 +11,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <stdlib.h>
-/*
- Program to implement a polynomial evaluation application
- Author     Dept        Date        Notes
- Ken Li Comp. Science . April 3, 2020 first version,
- */
+
 
 //5+ files total: Makefile, gitlog.txt, polyapp.c (contains main), poly.c, utils.c (contains parse & powi function), ANY HEADER FILES (.h)
 //program name: polyapp
