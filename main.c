@@ -1,8 +1,7 @@
 
 //
 //  main.c
-//  COMP206
-//
+
 //  Created by Yiming Li on 4/3/20.
 //  Copyright © 2020 Ken Li. All rights reserved.
 //
@@ -12,11 +11,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <stdlib.h>
-/*
- Q5 final
- Author     Dept        Date        Notes
- Ken Li Comp. Science . April 29, 2020 first version,
- */
+
 
 //5+ files total: Makefile, git.txt, main, sum1, sum2, compile.txt, .h
 //program name: polyapp
