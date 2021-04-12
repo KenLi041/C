@@ -1,16 +1,11 @@
 //r
 //  main.c
-//  COMP206
-//
+
 //  Created by Yiming Li on 2/12/20.
 //  Copyright © 2020 Ken Li. All rights reserved.
 //
 
-/*
- Program to implement a simple calculator
- Author     Dept        Date        Notes
- Ken Li Comp. Science . Feb 12 2020 Initial version .
- */
+
 
 #include <stdio.h>
 #include <errno.h>
