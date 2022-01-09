@@ -3,8 +3,8 @@
 //  main.c
 //  COMP206
 //
-//  Created by Yiming Li on 4/3/20.
-//  Copyright © 2020 Ken Li. All rights reserved.
+//  Created by Yiming Li
+//  Copyright © 2022 Ken Li. All rights reserved.
 //
 
 //comment section
